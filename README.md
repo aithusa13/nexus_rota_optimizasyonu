@@ -1,4 +1,4 @@
-# Ay Rover Rota Planlama — NEXUS Team
+# rotAY: Ay Rover Rota Planlama — NEXUS Team
 
 Türkiye'nin Ay rover'ı için geliştirilmiş hibrit global + lokal yol planlama sistemi. NASA'nın gerçek Ay yüzeyi verileri (MoonPlanBench) üzerinde çalışır.
 
@@ -30,7 +30,7 @@ pip install numpy scipy scikit-image matplotlib Pillow PyQt6
 ## Kullanım
 
 ```bash
-python rover.py
+python rotAY.py
 ```
 
 Veri seti: [MoonPlanBench — NASA LOLA DEM](https://drive.google.com/drive/folders/15srtIABvwBSbILQESVvAFPHMc3TCzS_R?usp=drive_link)  
@@ -46,16 +46,5 @@ Veri seti: [MoonPlanBench — NASA LOLA DEM](https://drive.google.com/drive/fold
 
 ---
 
-## Teknik Detaylar
-
-| | |
-|---|---|
-| Dil | Python 3.10 |
-| GA | Pop:20, Nesil:20, Mutasyon:0.25→0.12, Elit:%15 |
-| A* | 8-bağlantılı, clearance penaltı: `w/(cl+1)` |
-| Lokal replanning | `inflate_r=4`, `w_danger=1.2` |
-| Harita | 100×100 occupancy grid |
-
----
 
 *TUA Astro Hackathon 2025 | NEXUS Team*
