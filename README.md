@@ -128,7 +128,7 @@ nexus_rota_optimizasyonu/
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 
-# 🌙 ROTAY — Autonomous Route Optimization for the Lunar Surface
+# 🌕 ROTAY — Autonomous Route Optimization for the Lunar Surface
 
 > **NEXUS Team** · Hackathon Project  
 > *Ebrar Acar · Gülsüm Nur Kolçak · Zehra Betül Türkel · Sevgi Nisa Baysal*
