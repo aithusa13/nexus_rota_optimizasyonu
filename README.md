@@ -1,4 +1,4 @@
-# 🌙 ROTAY — Ay Yüzeyi İçin Otonom Rota Optimizasyonu
+# 🌕 ROTAY — Ay Yüzeyi İçin Otonom Rota Optimizasyonu
 
 > **NEXUS Team** · Hackathon Projesi  
 > *Ebrar Acar · Gülsüm Nur Kolçak · Zehra Betül Türkel · Sevgi Nisa Baysal*
