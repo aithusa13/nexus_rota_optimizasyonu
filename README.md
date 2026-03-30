@@ -118,10 +118,12 @@ nexus_rota_optimizasyonu/
 ## 📚 Referanslar
 
 1. [MoonPlanBench: A Benchmark for Planetary Surface Path Planning](https://github.com/mchancan/PlanetaryPathBench)
-
+2. https://www.mdpi.com/2072-4292/17/11/1924#Discussion_and_Future_Works
+3. https://github.com/AtsushiSakai/PythonRobotics/tree/master/PathPlanning
+4. https://www.researchgate.net/publication/399135625_Planetary_Terrain_Datasets_and_Benchmarks_for_Rover_Path_Planning
 ---
 
-<p align="center">NEXUS Team tarafından ☕ ve 🌙 ile yapıldı</p>
+<p align="center">NEXUS Team tarafından ☕ ve 🌕 ile yapıldı</p>
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////
@@ -237,4 +239,4 @@ nexus_rota_optimizasyonu/
 
 ---
 
-<p align="center">Made with ☕ and 🌙 by NEXUS Team</p>
+<p align="center">Made with ☕ and 🌕 by NEXUS Team</p>
