@@ -130,7 +130,7 @@ nexus_rota_optimizasyonu/
 
 # 🌕 ROTAY — Autonomous Route Optimization for the Lunar Surface
 
-> **NEXUS Team** · Hackathon Project  
+> **NEXUS Team** · TUA Hackathon Project  
 > *Ebrar Acar · Gülsüm Nur Kolçak · Zehra Betül Türkel · Sevgi Nisa Baysal*
 
 ---
@@ -236,6 +236,9 @@ nexus_rota_optimizasyonu/
 ## 📚 References
 
 1. [MoonPlanBench: A Benchmark for Planetary Surface Path Planning](https://github.com/mchancan/PlanetaryPathBench)
+2. https://www.mdpi.com/2072-4292/17/11/1924#Discussion_and_Future_Works
+3. https://github.com/AtsushiSakai/PythonRobotics/tree/master/PathPlanning
+4. https://www.researchgate.net/publication/399135625_Planetary_Terrain_Datasets_and_Benchmarks_for_Rover_Path_Planning
 
 ---
 
